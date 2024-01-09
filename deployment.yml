@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: pod-mysb
-        image: prehed/spring:35
+        image: prehed/spring:38
         ports:
         - containerPort: 8085
 ---
